@@ -1,37 +1,58 @@
 
-### How to use the Tensorflow proposed code?
-
-
-Download the iSEG-2017 data and place it in data folder. (Visit this link https://iseg2017.web.unc.edu/ to download the data. You need to register for the challenge.)
-
-
-
-### You can run the proposed model :
-
-
-
-Configure the flags according to your experiment.
-
-
-
-### To run Training
-
-                         flags.DEFINE_boolean("training", True, "True for Training ")
-
-Then run 
-                                      Main.py
-
-This will train your model and save the best checkpoint according to your validation performance.
-
-You can also resume training from saved checkpoint by setting the load_chkpt flag.
+### Two Independent Teachers are Better Role Model
 
 
 
 
-### To run Testing
 
-                       flags.DEFINE_boolean("testing", True, "True for Testing ")
-                       flags.DEFINE_boolean("training", False, "True for Training ")
-                       
-Then run 
-                                      Main.py
+This repository contains the tensorflow  of the model we proposed in our paper: Two Independent Teachers are Better Role Model
+
+The code is available in tensorflow. To run the project kindly refer to the individual readme file.
+
+
+
+
+
+### Dataset
+
+
+iSEG 2017 dataset was chosen to substantiate our proposed method. It contains the 3D multi-modal brain MRI data of 10 labeled training subjects and 13 unlabeled testing subjects.
+
+
+MRBrainS13 dataset was also used to test the robustness of our proposed model. It contains 3 modalities (T1-weighted, T1-weighted inversion recovery and FLAIR). Original Dataset consists of 5 labeled training and 6 unlabeled testing subjects. 
+
+
+
+
+### Proposed model architecture
+
+
+The following shows the model architecture of the proposed model. (Read our paper for further details)
+
+
+
+
+### Some results from our paper
+
+
+
+
+
+
+
+### Contact
+
+
+
+
+
+
+You can mail us at: afifakhaied@tju.edu.cn  If you use this code for your research, please consider citing the original paper:
+
+Afifa Khaled, Ahmed A. Mubarak,  Kun He.     Two Independent Teachers are Better Role Model.
+
+
+ 
+
+
+
