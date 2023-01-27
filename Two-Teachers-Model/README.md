@@ -22,9 +22,6 @@ Configure the flags according to your experiment.
 Then run 
                                       Main.py
 
-This will train your model and save the best checkpoint according to your validation performance.
-
-You can also resume training from saved checkpoint by setting the load_chkpt flag.
 
 
 
