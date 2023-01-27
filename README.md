@@ -47,7 +47,7 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 
 
-You can mail us at: afifakhaied@tju.edu.cn  If you use this code for your research, please consider citing the original paper:
+You can mail us at:   If you use this code for your research, please consider citing the original paper:
 
 
 
