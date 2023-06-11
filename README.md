@@ -41,7 +41,7 @@ The following shows the model architecture of the proposed model. (Read our pape
 ### Some results from our paper
 
 
-
+![model](./Result.jpg)
 
 
 
