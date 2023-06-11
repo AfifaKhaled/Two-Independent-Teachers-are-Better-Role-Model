@@ -73,22 +73,15 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 
 
-Afifa Khaled 
-Computer Science and Technology
-Huazhong University of Science and Technology
-Wuhan 430074, China
+### Afifa Khaled 
+
 afifakhaied@tju.edu.cn
 
-Ahmed A. Mubarak
-College of Applied Sciences and Educational
-IBB University
-IBB, Yemen
+### Ahmed A. Mubarak
+
 ahmedmubarak@ibbuniv.edu.ye
 
-Kun He
-School of Computer Science and Technology
-Huazhong University of Science and Technology
-Wuhan 430074, China
+### Kun He
 brooklet60@hust.edu.cn
 
 
