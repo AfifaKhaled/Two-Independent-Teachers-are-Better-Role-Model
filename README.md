@@ -52,8 +52,9 @@ The code has been written in Python (3.6.15) and requires Tensorflow
 You should also have installed
 scipy,
 tensorflow,
-numpy
-The code required  to load images in Nifti formats. And  you should install nibabel
+numpy.
+
+## The code required  to load images in Nifti formats. And  you should install nibabel
 
 ### Some results from our paper
 
