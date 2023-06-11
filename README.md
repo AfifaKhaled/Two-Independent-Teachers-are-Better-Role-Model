@@ -50,8 +50,8 @@ The following shows the model architecture of the proposed model.
 
 The code has been written in Python (3.6.15) and requires Tensorflow
 You should also have installed
-scipy
-tensorflow
+scipy,
+tensorflow,
 numpy
 The code required  to load images in Nifti formats. And  you should install nibabel
 
