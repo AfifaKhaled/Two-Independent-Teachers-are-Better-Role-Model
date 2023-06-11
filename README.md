@@ -49,7 +49,10 @@ The following shows the model architecture of the proposed model.
 ###   Programming language
 
 The code has been written in Python (3.6.15) and requires Tensorflow
-You should also have installed scipy
+You should also have installed
+scipy
+tensorflow
+numpy
 The code required  to load images in Nifti formats. And  you should install nibabel
 
 ### Some results from our paper
