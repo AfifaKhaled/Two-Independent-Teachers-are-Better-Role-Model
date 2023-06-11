@@ -1,5 +1,5 @@
 
-### Two Independent Teachers are Better Role Model
+# Two Independent Teachers are Better Role Model
 
 
 
@@ -13,7 +13,7 @@ The code is available in tensorflow. To run the project kindly refer to the indi
 
 
 
-### Dataset
+## Dataset
 
 
 iSEG 2017 dataset was chosen to substantiate our proposed method. It contains the 3D multi-modal brain MRI data of 10 labeled training subjects and 13 unlabeled testing subjects.
@@ -32,7 +32,7 @@ MRBrainS13 dataset was also used to test the robustness of our proposed model. O
 ### Since, as you might now, sharing medical data is not a good-practice, I did not include any sample in the corresponding folders. To make your experiments you must include your data in the repositories indicated in the configure.py file
 
 
-### Proposed model architecture
+## Proposed model architecture
 
 The following shows the model architecture of the proposed model.  
 
@@ -42,11 +42,11 @@ The following shows the model architecture of the proposed model.
 ![model](./Proposed_Model3.jpg)
 
 
-### Read our paper for further details
+#### Read our paper for further details
 
 
 ###   Requirements
-###   Programming language
+####  Programming language
 
 The code has been written in Python (3.6.15) and requires Tensorflow
 You should also have installed
@@ -62,18 +62,18 @@ numpy.
 
 ![model](./Result.jpg)
 
-### The accuracy and loss validation for propose model at M ICCAI iSEG dataset
+#### The accuracy and loss validation for propose model at M ICCAI iSEG dataset
 
 ![model](./Accloss.jpg)
 
 
-### The accuracy of validation dataset on M ICCAI iSEG with various setting of α
+#### The accuracy of validation dataset on M ICCAI iSEG with various setting of α
 
 
 ![model](./Dif_alpha_values.jpg)
 
 
-### Performance of the proposed model on 13 different subjects of M ICCAI iSEG dataset as test set
+#### Performance of the proposed model on 13 different subjects of M ICCAI iSEG dataset as test set
 
 
 ![model](./DC.jpg)
@@ -81,19 +81,19 @@ numpy.
 
 ### Contact
 
-###  You can mail us at: 
+####  You can mail us at: 
 
 
 
-### Afifa Khaled 
+#### Afifa Khaled 
 
 afifakhaied@tju.edu.cn
 
-### Ahmed A. Mubarak
+#### Ahmed A. Mubarak
 
 ahmedmubarak@ibbuniv.edu.ye
 
-### Kun He
+#### Kun He
 brooklet60@hust.edu.cn
 
 
