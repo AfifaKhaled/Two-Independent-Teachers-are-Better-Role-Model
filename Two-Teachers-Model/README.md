@@ -16,8 +16,16 @@ Configure the flags according to your experiment.
 
 
 ### To run Training
+###  From configure.py
+## The directory where your  data is stored
 
-                         flags.DEFINE_boolean("training", True, "True for Training ")
+                       flags.DEFINE_string('raw_data_dir', '.\Datasets',
+			'the directory where the raw data is stored')
+      
+  ## The number of epochs to use for training      
+      
+                       flags.DEFINE_integer('train_epochs',300000,
+			'the number of epochs to use for training')
 
 Then run 
                                       Main.py
@@ -27,9 +35,11 @@ Then run
 
 
 ### To run Testing
+##  change from train to predict
 
-                       flags.DEFINE_boolean("testing", True, "True for Testing ")
-                       flags.DEFINE_boolean("training", False, "True for Training ")
+                       parser.add_argument('--option', dest='option', type=str, default='train',  help='actions: train or predict')
+                       
                        
 Then run 
+
                                       Main.py
