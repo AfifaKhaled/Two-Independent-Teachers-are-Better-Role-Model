@@ -18,8 +18,11 @@ The code is available in tensorflow. To run the project kindly refer to the indi
 
 iSEG 2017 dataset was chosen to substantiate our proposed method. It contains the 3D multi-modal brain MRI data of 10 labeled training subjects and 13 unlabeled testing subjects.
 
+   
+![model](./MICCAIiSEG_dataset_example.jpg)
 
-MRBrainS13 dataset was also used to test the robustness of our proposed model. It contains 3 modalities. Original Dataset consists of 5 labeled training and 6 unlabeled testing subjects. 
+
+MRBrainS13 dataset was also used to test the robustness of our proposed model. Original Dataset consists of 5 labeled training and 6 unlabeled testing subjects. 
 
 
 
