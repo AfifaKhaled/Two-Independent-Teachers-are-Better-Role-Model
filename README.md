@@ -34,7 +34,7 @@ MRBrainS13 dataset was also used to test the robustness of our proposed model. O
 
 ## Proposed model architecture
 
-The following shows the model architecture of the proposed model.  
+The following shows the architecture of the proposed model.  
 
 ![model](./Proposed_Model.jpg)
 
@@ -48,8 +48,7 @@ The following shows the model architecture of the proposed model.
 ##   Requirements
 ####  Programming language
 
-The code has been written in Python (3.6.15) and requires Tensorflow
-You should also have installed
+The code has been written in Python (3.6.15) and requires
 scipy,
 tensorflow,
 numpy.
