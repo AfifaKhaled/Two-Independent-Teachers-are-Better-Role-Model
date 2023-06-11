@@ -44,7 +44,21 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 ![model](./Result.jpg)
 
+### The accuracy and loss validation for propose model at M ICCAI iSEG dataset
 
+![model](./Result.jpg)
+
+
+### The accuracy of validation dataset on M ICCAI iSEG with various setting of α
+
+
+![model](./Result.jpg)
+
+
+### Performance of the proposed model on 13 different subjects of M ICCAI iSEG dataset as test set
+
+
+![model](./Result.jpg)
 
 
 ### Contact
