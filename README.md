@@ -27,7 +27,7 @@ MRBrainS13 dataset was also used to test the robustness of our proposed model. I
 ### Proposed model architecture
 
 
-![model](./Proposed_Model3.pdf)
+![model](./Proposed_Model3.jpg)
 
 
 
