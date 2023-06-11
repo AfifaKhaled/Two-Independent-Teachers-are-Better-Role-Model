@@ -40,7 +40,7 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 ### Some results from our paper
 
-###Comparison on the 150-th slice results in M ICCAI iSEG dataset.
+### Comparison on the 150-th slice results in M ICCAI iSEG dataset.
 
 ![model](./Result.jpg)
 
