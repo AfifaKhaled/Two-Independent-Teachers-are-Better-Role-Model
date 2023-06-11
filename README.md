@@ -22,9 +22,14 @@ iSEG 2017 dataset was chosen to substantiate our proposed method. It contains th
 ![model](./MICCAIiSEG_dataset_example.jpg)
 
 
+
+
+
 MRBrainS13 dataset was also used to test the robustness of our proposed model. Original Dataset consists of 5 labeled training and 6 unlabeled testing subjects. 
 
 
+
+### Since, as you might now, sharing medical data is not a good-practice, I did not include any sample in the corresponding folders. To make your experiments you must include your data in the repositories indicated in the configure.py file
 
 
 ### Proposed model architecture
@@ -38,11 +43,12 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 
 
-###   System requirement
+###   Requirements
 ###   Programming language
 
-  Python 3.6.15
-
+The code has been written in Python (3.6.15) and requires Tensorflow
+You should also have installed scipy
+The code required  to load images in Nifti formats. And  you should install nibabel
 
 ### Some results from our paper
 
