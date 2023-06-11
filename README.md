@@ -41,7 +41,7 @@ The following shows the model architecture of the proposed model. (Read our pape
 ###   System requirement
 ###   Programming language
 
-  Python 3.5 
+  Python 3.6.15
 
 
 ### Some results from our paper
