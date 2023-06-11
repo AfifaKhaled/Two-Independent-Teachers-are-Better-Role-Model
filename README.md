@@ -54,7 +54,7 @@ scipy,
 tensorflow,
 numpy.
 
-## The code required  to load images in Nifti formats. And  you should install nibabel
+#### The code required  to load images in Nifti formats. And  you should install nibabel
 
 ### Some results from our paper
 
