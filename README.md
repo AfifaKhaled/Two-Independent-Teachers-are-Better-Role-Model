@@ -36,9 +36,13 @@ MRBrainS13 dataset was also used to test the robustness of our proposed model. O
 
 The following shows the architecture of the proposed model.  
 
+### Framework of the proposed model with (a) 3D-DenseUNet architecture 
 ![model](./Proposed_Model.jpg)
 
+### A global attention block with 3D layers based on multi-head attention as the self-attention.
 ![model](./Proposed_Model2.jpg)
+
+### Illustration of the fused weights from teacher models to the fuse mode
 ![model](./Proposed_Model3.jpg)
 
 
