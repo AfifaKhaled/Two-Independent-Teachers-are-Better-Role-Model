@@ -45,7 +45,7 @@ The following shows the model architecture of the proposed model.
 #### Read our paper for further details
 
 
-###   Requirements
+##   Requirements
 ####  Programming language
 
 The code has been written in Python (3.6.15) and requires Tensorflow
@@ -56,7 +56,7 @@ numpy.
 
 #### The code required  to load images in Nifti formats. And  you should install nibabel
 
-### Some results from our paper
+## Some results from our paper
 
 ### Comparison on the 150-th slice results in M ICCAI iSEG dataset.
 
@@ -79,7 +79,7 @@ numpy.
 ![model](./DC.jpg)
 
 
-### Contact
+## Contact
 
 ####  You can mail us at: 
 
@@ -98,7 +98,8 @@ brooklet60@hust.edu.cn
 
 
 
-If you use this code for your research, please consider citing the original paper:
+
+## If you use this code for your research, please consider citing the original paper:
 
 
 We have submitted the manuscript to Journal of IEEE Transactions on Medical Imaging (TMI) in June 2023
