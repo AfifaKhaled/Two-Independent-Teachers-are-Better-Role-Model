@@ -53,7 +53,7 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 
 
-You can mail us at: 
+You can mail us at: \\
 Afifa Khaled 
 Computer Science and Technology
 Huazhong University of Science and Technology
