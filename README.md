@@ -54,8 +54,23 @@ The following shows the model architecture of the proposed model. (Read our pape
 
 
 You can mail us at: 
+Afifa Khaled 
+Computer Science and Technology
+Huazhong University of Science and Technology
+Wuhan 430074, China
+afifakhaied@tju.edu.cn
 
+Ahmed A. Mubarak
+College of Applied Sciences and Educational
+IBB University
+IBB, Yemen
+ahmedmubarak@ibbuniv.edu.ye
 
+Kun He
+School of Computer Science and Technology
+Huazhong University of Science and Technology
+Wuhan 430074, China
+brooklet60@hust.edu.cn
 
 
 
