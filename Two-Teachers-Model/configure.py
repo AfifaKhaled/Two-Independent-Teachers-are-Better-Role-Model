@@ -5,9 +5,9 @@ def configure():
 	flags =tf.compat.v1.app.flags
 
 	# Training set
-	flags.DEFINE_string('raw_data_dir', '.\Datasets',
+	flags.DEFINE_string('raw_data_dir', './Datasets',
 			'the directory where the raw data is stored')
-	flags.DEFINE_string('data_dir', '.\Datasets',
+	flags.DEFINE_string('data_dir', './Datasets',
 			'the directory where the input data is stored')
 	flags.DEFINE_integer('num_training_subs', 9,
 			'the number of subjects used for training')
