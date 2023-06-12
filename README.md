@@ -108,6 +108,13 @@ brooklet60@hust.edu.cn
 We have submitted the manuscript to Journal of IEEE Transactions on Medical Imaging (TMI) in June 2023
 
  
-
+@misc{khaled2023independent,
+      title={Two Independent Teachers are Better Role Model}, 
+      author={Afifa Khaled and Ahmed A. Mubarak and Kun He},
+      year={2023},
+      eprint={2306.05745},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
 
 
