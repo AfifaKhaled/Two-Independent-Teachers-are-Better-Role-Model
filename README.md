@@ -1,9 +1,10 @@
 
 # Two Independent Teachers are Better Role Model
 
-
-
-
+### Two Independent Teachers are Better Role Model, Afifa Khaled and Ahmed A. Mubarak and Kun He.
+Link for the paper 
+[Link](https://arxiv.org/abs/2306.05745)
+  
 
 This repository contains the tensorflow  of the model we proposed in our paper: Two Independent Teachers are Better Role Model
 
