@@ -2,8 +2,7 @@
 # Two Independent Teachers are Better Role Model
 
 
-Link for the paper 
-[Link](https://arxiv.org/abs/2306.05745)
+(Link for the paper https://arxiv.org/abs/2306.05745)
   
 
 This repository contains the tensorflow  of the model we proposed in our paper: Two Independent Teachers are Better Role Model
