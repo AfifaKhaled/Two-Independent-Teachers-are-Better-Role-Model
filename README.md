@@ -67,20 +67,23 @@ numpy.
 
 ### Comparison on the 150-th slice results in M ICCAI iSEG dataset.
 
+
 ![model](./Result.jpg)
 
-#### The accuracy and loss validation for propose model at M ICCAI iSEG dataset
+#### The accuracy and loss validation for propose model at M ICCAI iSEG dataset.
+
 
 ![model](./Accloss.jpg)
 
 
-#### The accuracy of validation dataset on M ICCAI iSEG with various setting of α
+#### The accuracy of validation dataset on M ICCAI iSEG with various setting of α.
+
 
 
 ![model](./Dif_alpha_values.jpg)
 
 
-#### Performance of the proposed model on 13 different subjects of M ICCAI iSEG dataset as test set
+#### Performance of the proposed model on 13 different subjects of M ICCAI iSEG dataset as test set.
 
 
 ![model](./DC.jpg)
