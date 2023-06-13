@@ -123,6 +123,5 @@ We have submitted the manuscript to Journal of IEEE Transactions on Medical Imag
       eprint={2306.05745},
       archivePrefix={arXiv},
       primaryClass={eess.IV}
-}
 
 
