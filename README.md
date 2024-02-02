@@ -112,8 +112,7 @@ brooklet60@hust.edu.cn
 ## If you use this code for your research, please consider citing the original paper:
 
 
-We have submitted the manuscript to Journal of IEEE Transactions on Medical Imaging (TMI) in June 2023
-
+We have submitted the manuscript to 
 [Link](https://arxiv.org/abs/2306.05745)
 
       @misc{khaled2023independent,
